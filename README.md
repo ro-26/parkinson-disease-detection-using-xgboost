@@ -18,7 +18,7 @@ This project aims to develop a Parkinson's Disease detection system using machin
 - Matplotlib and Seaborn for data visualization
 
 ### Installation and Usage:
-1. Clone the repository: git clone https://github.com/your-username/parkinson-detection.git
+1. Clone the repository: git clone https://github.com/ro-26/parkinson-disease-detection-using-machine-learning
 2. Install the required dependencies
 3. Open the Jupyter Notebook: jupyter notebook
 4. Run the cells in the notebook to execute the data preprocessing, SVM training, and hyperparameter tuning steps.
