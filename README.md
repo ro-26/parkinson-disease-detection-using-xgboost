@@ -20,7 +20,7 @@ This project aims to develop a Parkinson's Disease detection system using machin
 ### Installation and Usage:
 1. Clone the repository: git clone https://github.com/ro-26/parkinson-disease-detection-using-machine-learning
 2. Install the required dependencies
-3. Open the Jupyter Notebook: jupyter notebook
+3. Open the Jupyter Notebook
 4. Run the cells in the notebook to execute the data preprocessing, SVM training, and hyperparameter tuning steps.
 5. Analyze the results, evaluate the model's performance, and explore the visualizations in the notebook.
 
